@@ -1,0 +1,113 @@
+[
+	{
+		"name": "Personal Blog",
+		"logo": "blog.svg",
+		"logoWidth": 200,
+		"stack": ["React.js", "Next.js", "Tailwind CSS"],
+		"type": "Personal",
+		"link": "https://www.izzatdev.com/",
+		"repo": "https://github.com/izzat220/blog",
+		"images": ["blog/1.png", "blog/2.png", "blog/3.png"],
+		"shortDescription": "My personal blog where I share coding knowledge, tutorials, and general thoughts and advice.",
+		"longDescription": "Having a blog is a no-brainer for every software developer. Being active online within the coding community is essential. This personal blog is created to be a creative outlet for my thoughts and an entry point to my career. In the blog, I discuss developer tech stacks, post coding tutorials, and share whatever comes to mind; being lifestyle, career, or philosophy."
+	},
+	{
+		"name": "StudyRoom",
+		"logo": "studyroom.svg",
+		"logoWidth": 200,
+		"stack": ["React.js", "Next.js", "Tailwind CSS"],
+		"type": "Personal",
+		"link": "https://www.izzatdev.com/",
+		"repo": "https://github.com/izzat220/blog",
+		"images": [],
+		"shortDescription": "An ambitious startup with the aim of helping students and teachers through a one-stop platform for online tutoring.",
+		"longDescription": "An ambitious startup in the making for over a year, set to launch in Q4 of 2022. StudyRoom is an All-In-On tutoring platform meant to connect tutors with students through online classes. StudyRoom includes its own in-app video conferencing, integrated payment gateway, direct messaging, competitive seller ecosystem, and much more. All presented through a modern, responsive, and attractive user interface."
+	},
+	{
+		"name": "Books App",
+		"logo": "studyroom.svg",
+		"logoWidth": 200,
+		"stack": [
+			"React.js",
+			"Next.js",
+			"Tailwind CSS",
+			"Daisy UI",
+			"Prisma ORM",
+			"Next Auth",
+			"MySQL",
+			"TypeScript"
+		],
+		"type": "Personal",
+		"link": "https://www.izzatdev.com/",
+		"repo": "https://github.com/izzat220/blog",
+		"images": [],
+		"shortDescription": "A social platform meant to be your personal online bookshelf. Track your readings and see what others are reading too.",
+		"longDescription": "An app catering to a personal passion of mine: literature. Struggling to find an app to manage my reading lists, I built an app with the sole purpose of doing exactly that. Bookshelf allows you to create lists of all your bookshelves: finished, reading, to read, and dropped. All with an attractive yet simple UI to present your bookshelf neatly, and hooked up with Google’s Book API to fetch your favorite book covers. Also, social aspects permeate the app, such as followers, book ratings, book reviews, activity notifications, and much more."
+	},
+	{
+		"name": "Property Finder",
+		"logo": "property-finder.png",
+		"logoWidth": 115,
+		"stack": ["React.js", "Next.js", "Tailwind CSS"],
+		"type": "Professional",
+		"link": "https://www.izzatdev.com/",
+		"repo": "https://github.com/izzat220/blog",
+		"images": ["pf/1.png", "pf/2.png", "pf/3.png", "pf/4.png"],
+		"shortDescription": "A customer service call management application developed to optimize Property Finder’s interaction with callers.",
+		"longDescription": "A private platform developed to be used my Property Finder’s customer service team. The application lists calls received, provides quick access to recordings, manages blocked callers, views call details, manages agents, exports data, and much more. The application was designed for speed, with a user interface suitable with the Property Finder brand."
+	},
+	{
+		"name": "Intercom Integration",
+		"logo": "intercom.png",
+		"logoWidth": 150,
+		"stack": ["React.js", "Next.js", "Tailwind CSS"],
+		"type": "Professional",
+		"link": "https://www.izzatdev.com/",
+		"repo": "https://github.com/izzat220/blog",
+		"images": [],
+		"shortDescription": "Small but powerful Intercom widget integration with an existing web application.",
+		"longDescription": "An Intercom web app integration with an existing platform. The Intercom widget is attached through the recommended Intercom integration procedure with OAuth protection and UI consistent with the Intercom design system. The widget was approved by Intercom and is now hosted on their app store."
+	},
+	{
+		"name": "zen crm",
+		"logo": "studyroom.svg",
+		"stack": ["React.js", "Next.js", "Tailwind CSS"],
+		"type": "Professional",
+		"link": "https://www.izzatdev.com/",
+		"repo": "https://github.com/izzat220/blog",
+		"images": [
+			"crm/1.png",
+			"crm/2.png",
+			"crm/3.png",
+			"crm/4.png",
+			"crm/5.png",
+			"crm/6.png",
+			"crm/7.png",
+			"crm/8.png"
+		],
+		"shortDescription": "A customized CRM solution designed to fit the company’s work-flow with an aim of paper-less operation and  efficiency.",
+		"longDescription": "A complete CRM system built from scratch and customized for the company's workflow. Moving towards a paper-less future, the platform handles support tickets, project creation, inventory monitoring, subscription management, and a lot more through one convenient platform with a robust backend and a modern, user friendly frontend. Being an open ended CRM application, the platform’s architecture allows for more integrations, additional features, and customizable settings. Future features include invoice creation system and quotation management."
+	},
+	{
+		"name": "Autodialer Solution",
+		"logo": "studyroom.svg",
+		"stack": ["React.js", "Next.js", "Tailwind CSS"],
+		"type": "Professional",
+		"link": "https://www.izzatdev.com/",
+		"repo": "https://github.com/izzat220/blog",
+		"images": [],
+		"shortDescription": "A SaaS autodialer and call monitoring platform meant for multi-tenant usage integrated with 3CX.",
+		"longDescription": "A SaaS project revolving around the APIs provided by 3CX, this multi-tenant subscription based platform was built to provide efficient auto dialer functionalities to customers already possessing a 3CX installation. Platform also provide a call queue monitoring wallboard for easier management of customer service, attendance, and employee performance. Application includes high level management for clients’ subscription plans, allowed features, and custom settings."
+	},
+	{
+		"name": "Billing Engine",
+		"logo": "studyroom.svg",
+		"stack": ["React.js", "Next.js", "Tailwind CSS"],
+		"type": "Professional",
+		"link": "https://www.izzatdev.com/",
+		"repo": "https://github.com/izzat220/blog",
+		"images": [],
+		"shortDescription": "A personalized billing engine processing thousands of records for more than 50 clients on a daily basis.",
+		"longDescription": "A billing engine designed to automate the monthly process of call report usage calculation, distribution, and summarization. Platform deals with big data processing on a daily basis on the backend, and offers convenient data manipulation and extraction on the frontend. Client KYC and information keeping capabilities are also present, with the ability to upload and manage purchase declarations."
+	}
+]

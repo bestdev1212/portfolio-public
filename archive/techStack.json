@@ -1,0 +1,12 @@
+[
+	{ "name": "TypeScript", "logo": "typescript.png", "link": "", "width":70 },
+	{ "name": "Node.js", "logo": "node.png", "link": "", "width":70 },
+	{ "name": "React.js", "logo": "react.png", "link": "", "width":70 },
+	{ "name": "Next.js", "logo": "next.png", "link": "", "width":70 },
+	{ "name": "Tailwind CSS", "logo": "tailwind.png", "link": "", "width":70 },
+	{ "name": "Prisma ORM", "logo": "prisma.png", "link": "", "width":70 },
+	{ "name": "MongoDB", "logo": "mongo.png", "link": "", "width":70 },
+	{ "name": "MySQL", "logo": "mysql.png", "link": "" , "width":70},
+	{ "name": "Redis", "logo": "redis.png", "link": "" , "width":70},
+	{ "name": "Figma", "logo": "figma.png", "link": "", "width":48 }
+]
