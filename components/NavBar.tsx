@@ -4,7 +4,7 @@ const NavBar = () => {
 	return (
 		<div className="navbar bg-base-100 fixed z-10">
 			<div className="flex-1">
-				<a className="btn btn-ghost normal-case text-xl">Portfolio</a>
+				<a className="btn btn-ghost normal-case text-xl">Izzat</a>
 			</div>
 			<div className="flex-none">
 				<button className="btn btn-square btn-ghost">
